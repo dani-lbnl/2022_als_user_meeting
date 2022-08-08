@@ -11,7 +11,7 @@ This is a short introduction to Computer Vision, containing examples on image fi
     <td>
      <p>
       Title: Vision  <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
-      <li> Presenter: <a href='bit.ly/idealdatascience'>Daniela Ushizima </a>
+      <li> Presenter: <a href='bit.ly/als2022vision'>Daniela Ushizima </a>
       <li> Date: 2022
       <li> Time: 24hrs
       </td>
@@ -30,3 +30,4 @@ This is a short introduction to Computer Vision, containing examples on image fi
 
 ## Warning
 This tutorial is under active development, so use at your own risk. Found a bug? File an issue or contact [Dani Ushizima](mailto:dushizima@lbl.gov)
+Easy link is http://bit.ly/als2022vision
