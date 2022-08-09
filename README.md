@@ -2,7 +2,7 @@
 
 ## Tutorial on microCT visualization
 
-This is a short introduction to Computer Vision, containing examples on image filtering, 2D and 3D representations, as well as pixel classification and visualization schemes. These are used for the construction of pipelines and workflows using several scientific python libraries, such as scikit-learn, scikit-image, and itkwidgets.
+This is a short introduction to Computer Vision, explaining how to handle 2D and 3D image representations using numpy, how to perform key image transformations with scipy, as well as pixel classification with sklearn and visualization schemes using matplotlib, plotly, itkwidgets and other scientific python libraries used into the construction of pipelines and workflows.
 
 <table border="0">
  <tr>
@@ -12,8 +12,8 @@ This is a short introduction to Computer Vision, containing examples on image fi
      <p>
       Title: Vision  <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
       <li> Presenter: <a href='bit.ly/als2022vision'>Daniela Ushizima </a>
-      <li> Date: 2022
-      <li> Time: 24hrs
+      <li> Date: Aug 16th 2022
+      <li> Time: 1pm PT
       </td>
  </tr>
 </table>
