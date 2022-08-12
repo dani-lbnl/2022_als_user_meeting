@@ -1,4 +1,4 @@
-# CAMERA @ 2022 Berkeley Lab ALS User Meeting
+# CAMERA @ LBNL ALS User Meeting'22
 
 ## Elevate Your microCT Data Processing Workshop - Vision Tutorial   
 
@@ -26,7 +26,14 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
 - [05_multiscale](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/05_multiscale.ipynb)
 - [06_tridimvis](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/06_tridimvis.ipynb)
 
-## Other tutorials:  
+## Enjoyed? Share it!
+[![Twitter](https://img.shields.io/badge/-Dani%20Vision-00aa00?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dani_lbnl)](https://twitter.com/dani_lbnl) 
+[![Linkedin](https://img.shields.io/badge/-Dani%20Vision-00aa00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/danivision)](https://www.linkedin.com/in/daniela-ushizima-vision) 
+[![Instagram](https://img.shields.io/badge/-Dani%20Vision-00aa00?style=flat-square&labelColor=00aa00&logo=instagram&logoColor=white&link=https://www.instagram.com/danielaushizima)](https://www.instagram.com/danielaushizima) 
+[![Gmail](https://img.shields.io/badge/-dani.lbnl@gmail.com-00aa00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dani.lbnl@gmail.com)](mailto:dani.lbnl@gmail.com)
+
+
+### Other tutorials:  
 
 - Enjoy visualization with itkwidgets: [[short tutorial]](https://github.com/dani-lbnl/SC20_pyHPC) SuperComputing 2020 by Ushizima, McCormick
 
@@ -36,7 +43,7 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
     - Lesson 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1l3nUSw5N2QQgcZqlO9gULRN3PHrkde6Q/view?usp=sharing)
     - Lesson 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GX3Gp0IgqCCn7KbpwG2LVsVCKKyGd-45/view?usp=sharing)
 
-## Warning
-This tutorial is under active development, so use at your own risk. Found a bug? File an issue or contact [Dani Ushizima](mailto:dushizima@lbl.gov)
+### Warning
+This tutorial is under active development, so use at your own risk. Found a bug? File an issue or contact [Dani Ushizima](mailto:dani.lbnl@gmail.com)
 
 Short link to this page: http://bit.ly/als2022vision
