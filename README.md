@@ -1,8 +1,8 @@
-# 2022 Berkeley Lab ALS User Meeting
+# CAMERA @ 2022 Berkeley Lab ALS User Meeting
 
-## Tutorial on microCT visualization
+## Elevate Your microCT Data Processing Workshop - Vision Tutorial   
 
-This is a short introduction to Computer Vision, explaining how to handle 2D and 3D image representations using numpy, how to perform key image transformations with scipy, as well as pixel classification with sklearn and visualization schemes using matplotlib, plotly, itkwidgets and other scientific python libraries used into the construction of pipelines and workflows.
+This is a short introduction to Computer Vision, explaining how to handle 2D and 3D image representations using numpy, how to perform key image transformations with scipy and skimage, as well as visualization schemes using matplotlib, plotly, itkwidgets and other python libraries used into the construction of scientific pipelines and workflows. 
 
 <table border="0">
  <tr>
@@ -10,13 +10,21 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
     </td>
     <td>
      <p>
-      Title: Vision  <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
+      Title: Python Vision for MicroCT  <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
       <li> Presenter: <a href='bit.ly/als2022vision'>Daniela Ushizima </a>
       <li> Date: Aug 16th 2022
       <li> Time: 1pm PT
       </td>
  </tr>
 </table>
+
+## Tutorial Outline:
+- [01_getstarted](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/01_getstarted.ipynb)
+- [02_stackoverview](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/02_stackoverview.ipynb)
+- [03_voxeldistribution](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/03_voxeldistribution.ipynb)
+- [04_binarypartition](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/04_binarypartition.ipynb)
+- [05_multiscale](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/05_multiscale.ipynb)
+- [06_tridimvis](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/06_tridimvis.ipynb)
 
 ## Other tutorials:  
 
@@ -30,4 +38,5 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
 
 ## Warning
 This tutorial is under active development, so use at your own risk. Found a bug? File an issue or contact [Dani Ushizima](mailto:dushizima@lbl.gov)
-Easy link is http://bit.ly/als2022vision
+
+Short link to this page: http://bit.ly/als2022vision
