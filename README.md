@@ -2,7 +2,7 @@
 
 ## Elevate Your microCT Data Processing [Workshop](https://als.lbl.gov/2022-user-meeting-workshops-tutorials/) - Vision Tutorial   
 
-This is a short introduction to Computer Vision, explaining how to handle 2D and 3D image representations using numpy, how to perform key image transformations with scipy and skimage, as well as visualization schemes using matplotlib, plotly, itkwidgets and other python libraries used into the construction of scientific pipelines and workflows. 
+This is a short introduction to Computer Vision, explaining how to handle 2D and 3D image representations using numpy, how to perform key image transformations with scipy and skimage, as well as visualization schemes using matplotlib, plotly, itkwidgets and other python libraries used into the construction of scientific pipelines and workflows.
 
 <table border="0">
  <tr>
@@ -14,6 +14,7 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
       <li> Presenter: <a href='bit.ly/als2022vision'>Daniela Ushizima </a>
       <li> Date: Aug 16th 2022
       <li> Time: 1pm PT
+      <li> QUICK DOWNLOAD: <a href='https://www.dropbox.com/s/4z9mc48h6clkrci/notebooks_nersc.zip?dl=0'>[NERSC]</a> <a href='https://www.dropbox.com/s/22r992ko0kjqqzz/notebooks_colab.zip?dl=0'>[Colab]</a> <a href='https://www.dropbox.com/s/uqqn6epnxwhau98/pdf_version.zip?dl=0'>[PDF]</a>
       </td>
  </tr>
 </table>
@@ -27,10 +28,10 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
 - [06_tridimvis](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/06_tridimvis.ipynb)
 
 ## Enjoyed it? Give us a :star: and share this material!
-[![Twitter](https://img.shields.io/badge/-Dani%20Vision-00aa00?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dani_lbnl)](https://twitter.com/dani_lbnl) 
-[![Linkedin](https://img.shields.io/badge/-Dani%20Vision-174b97?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/danivision)](https://www.linkedin.com/in/daniela-ushizima-vision) 
+[![Twitter](https://img.shields.io/badge/-Dani%20Vision-00aa00?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dani_lbnl)](https://twitter.com/dani_lbnl)
+[![Linkedin](https://img.shields.io/badge/-Dani%20Vision-174b97?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/danivision)](https://www.linkedin.com/in/daniela-ushizima-vision)
 [![YouTube](https://img.shields.io/badge/-Dani%20Vision-8a28e2?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/DaniUshizimaVision)](https://www.youtube.com/c/DaniUshizimaVision)
-[![Instagram](https://img.shields.io/badge/-Dani%20Vision-dd0000?style=flat-square&labelColor=dd0000&logo=instagram&logoColor=white&link=https://www.instagram.com/danielaushizima)](https://www.instagram.com/danielaushizima) 
+[![Instagram](https://img.shields.io/badge/-Dani%20Vision-dd0000?style=flat-square&labelColor=dd0000&logo=instagram&logoColor=white&link=https://www.instagram.com/danielaushizima)](https://www.instagram.com/danielaushizima)
 [![Gmail](https://img.shields.io/badge/-dani.lbnl@gmail.com-ffaa1d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dani.lbnl@gmail.com)](mailto:dani.lbnl@gmail.com)
 
 
