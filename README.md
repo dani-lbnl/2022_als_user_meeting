@@ -10,8 +10,8 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
     </td>
     <td>
      <p>
-      Title: Python Vision for MicroCT  <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
-      <li> Presenter: <a href='bit.ly/als2022vision'>Daniela Ushizima </a>
+      Title: Python Vision for MicroCT  <a href='https://youtu.be/7g9WSXbFFSU'>[presentation]</a>
+      <li> Presenter: <a href='bit.ly/idealdatascience'>Daniela Ushizima </a>
       <li> Date: Aug 16th 2022
       <li> Time: 1pm PT
       <li> QUICK DOWNLOAD: <a href='https://www.dropbox.com/s/4z9mc48h6clkrci/notebooks_nersc.zip?dl=0'>[NERSC]</a> <a href='https://www.dropbox.com/s/22r992ko0kjqqzz/notebooks_colab.zip?dl=0'>[Colab]</a> <a href='https://www.dropbox.com/s/uqqn6epnxwhau98/pdf_version.zip?dl=0'>[PDF]</a>
