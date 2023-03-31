@@ -1,6 +1,6 @@
 # CAMERA @ LBNL ALS User Meeting'22
 
-## Elevate Your microCT Data Processing [Workshop](https://als.lbl.gov/2022-user-meeting-workshops-tutorials/) - Vision Tutorial   
+## Elevate Your microCT Data Processing Workshop - Vision Tutorial   
 
 This is a short introduction to Computer Vision, explaining how to handle 2D and 3D image representations using numpy, how to perform key image transformations with scipy and skimage, as well as visualization schemes using matplotlib, plotly, itkwidgets and other python libraries used into the construction of scientific pipelines and workflows.
 
